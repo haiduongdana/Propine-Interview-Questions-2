@@ -12,7 +12,7 @@ npm install
 
 ## Start
 
-- Please download file https://s3-ap-southeast-1.amazonaws.com/static.propine.com/transactions.csv.zip then unzip to data.csv file at root folder (I can't push that file to my repo because it very big)
+- Please download file https://s3-ap-southeast-1.amazonaws.com/static.propine.com/transactions.csv.zip then unzip to data.csv file at root folder (I could't push that file to my repo because it's very big)
 
 - Use node to start Crypto Analytic.
 
